@@ -1,0 +1,41 @@
+
+#titlu{
+    margin-top: 50px;
+}
+#a{
+    margin-left: 250px;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+.b{
+    margin-left: 250px;
+    margin-top: 25px;
+    
+}
+#c{
+    margin-left: 250px; 
+    
+}
+#button{
+    display:block;
+    text-align: center;
+    font-weight:300;
+    padding: 15px 15px;
+  }
+.spatiu{
+    margin-left: 250px;
+    margin-top: 25px;
+}
+#submit{
+    margin-top: 25px;
+    margin-left:350px
+}
+input[type=submit]{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 4px;
+
