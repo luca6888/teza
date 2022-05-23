@@ -3,17 +3,17 @@
     margin-top: 50px;
 }
 #a{
-    margin-left: 250px;
-    margin-top: 100px;
+    
+    margin-top: 25px;
     margin-bottom: 25px;
 }
 .b{
-    margin-left: 250px;
-    margin-top: 25px;
+    
+   margin-top: 25px;
     
 }
 #c{
-    margin-left: 250px; 
+    
     
 }
 #button{
@@ -23,12 +23,13 @@
     padding: 15px 15px;
   }
 .spatiu{
-    margin-left: 250px;
+    
     margin-top: 25px;
 }
 #submit{
-    margin-top: 25px;
-    margin-left:350px
+    
+    margin-left: 1000px;
+    
 }
 input[type=submit]{
     background-color: #04AA6D;
@@ -38,4 +39,19 @@ input[type=submit]{
     text-decoration: none;
     cursor: pointer;
     border-radius: 4px;
+}
 
+.flex-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+      }
+
+.flex-container > div{
+    margin: 60px;   
+}
+
+#left{
+    margin-left: 280px;
+}
