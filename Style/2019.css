@@ -3,24 +3,7 @@ body
   margin:0;
   background-color: #f2f2f2;
 }
-nav{
-  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.19);
-}
 
-li {
-    float: right;
-}
-li a {
-    display: block;
-    color: #999;
-    font-family: 'proxima-nova', sans-serif;
-  	font-size: 18px;
-    padding: 15px 15px;
-}
-li a:hover {
-    color: #e6b800;
-    text-decoration: none;
-}
 * {
   box-sizing: border-box;
 }
