@@ -4,3 +4,30 @@
     font-weight:300;
     padding: 15px 15px;
   }
+  #descriere{
+    display: block;
+    margin:auto;
+    width:70%;
+  }
+  p{
+    font-family: Georgia, sans-serif;
+    font-size: 20px;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  #center{
+    margin: auto;
+    width: 50%;
+    display: block;
+  }
+.margin{
+  margin: 20px;
+}
+.flex-container > img{
+  margin: 60px;   
+}
+
